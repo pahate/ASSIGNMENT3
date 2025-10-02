@@ -1,6 +1,6 @@
 # ASSIGNMENT3
 # Task1 
-#Input 
+# Input 
 Task 1: Calculate Factorial Using a Function 
 
 
@@ -22,6 +22,7 @@ print(f"Factorial of {number} is {factorial(number)}")
 
 
 # Task 2
+# input
 Task 2: Using the Math Module for Calculations
  
 Problem Statement: Write a Python program that:
